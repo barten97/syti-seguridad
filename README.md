@@ -1,1 +1,2 @@
 # syti-seguridad
+GitHub Pages
